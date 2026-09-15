@@ -5,7 +5,6 @@ produk = {
 }
 
 while True:
-    print("MENU PENGELOLAAN DATA PRODUK")
     print("1 Tampilkan Data Produk")
     print("2 Tambah Data Kategori")
     print("3 Ubah Data Harga")
