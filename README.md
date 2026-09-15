@@ -21,7 +21,7 @@ Berikut adalah penjelasan fungsi bagian-bagian kode program yang digunakan:
    * `"stok"`: menyimpan jumlah stok (`12`)
 
 2. **Perulangan Menu (`while True`)**:
-   Program menggunakan perulangan uncounted `while True:` agar menu utama terus ditampilkan setelah setiap operasi selesai dijalankan, hingga pengguna memilih menu `5` untuk keluar (`break`).
+   Program menggunakan perulangan `while True:` agar menu utama terus ditampilkan setelah setiap operasi selesai dijalankan, hingga pengguna memilih menu `5` untuk keluar (`break`).
 
 3. **Tampilkan Data Produk (`Read`)**:
    Mengakses dan menampilkan seluruh data produk beserta nilai spesifik menggunakan kunci/key masing-masing (`produk["nama"]`, `produk["harga"]`, `produk["stok"]`). Jika key `"kategori"` ada di dalam Dictionary, nilainya juga akan ditampilkan.
